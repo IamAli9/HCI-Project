@@ -1,6 +1,6 @@
 # HCI-Project
 
-## Assignment No 01
+## Project proposal -- Assignment No 01
 
 ### Group Member Name
 Faizan Siddiqui 61913
