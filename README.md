@@ -14,5 +14,6 @@ It is easy for user to book a bus as he she and driver also know how many seats 
 
 
 ###### TASK ANALYSIS
+1 Driver and user check seats. 2 User can also reserve seats. 3 Driver can also control mobile screen of a bus. 4 Driver track the trafic easily through app. 5 User and driver both connect through app. 6. User can check route of a bus to thier destination.
 
 
