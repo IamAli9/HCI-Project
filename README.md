@@ -3,7 +3,7 @@
 ## PROJECT PROPOSAL 
 
 #### GROUP MEMBERS
-Faizan Siddiqui 61913
+Faizan Siddiqui 61913 <br/>
 Wajahat Ali Khalid 61869
 
 ## BUS AUTO MOBILE
