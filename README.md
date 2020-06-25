@@ -27,7 +27,7 @@ Driver Connect through app.<br/>
 User can check route of a bus to thier destination.<br/>
 
 ## Refrences
-  - Developed own idea <br/>
+  - Developed own idea 
   -sample code examples will be added soon.
 
 
