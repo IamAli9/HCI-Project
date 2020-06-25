@@ -1,8 +1,8 @@
 # HCI-Project
 
-## Project Proposal 
+## PROJECT PROPOSAL 
 
-### Group Member Name
+#### GROUP MEMBERS
 Faizan Siddiqui 61913
 Wajahat Ali Khalid 61869
 
