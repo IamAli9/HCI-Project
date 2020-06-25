@@ -11,29 +11,23 @@ We focus on the current solution of trafic system to organize an application whi
 
 ## TASK PERFORMED ##
 
-1. ### TASK1 ###
+### TASK1 ###
  Driver and user check seats.<br/>
-
-2. ### TASK2 ###
+### TASK2 ###
 User can also reserve seats.<br/>
-
-3. ### TASK3 ###
+### TASK3 ###
 Driver can also control mobile screen of a bus.<br/>
-
-4. ### TASK4 ###
+### TASK4 ###
 Driver track the trafic easily through app.<br/>
-
-5. ### TASK5 ###
+### TASK5 ###
 User connect through app. <br/>
-
-6. ### TASK6 ###
+### TASK6 ###
 Driver Connect through app.<br/>
-
-7.### TASK7 ###
+### TASK7 ###
 User can check route of a bus to thier destination.<br/>
 
 ## Refrences
-- Developed own idea <br/>
--sample code examples will be added soon.
+  - Developed own idea <br/>
+  -sample code examples will be added soon.
 
 
