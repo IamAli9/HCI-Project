@@ -12,7 +12,7 @@ We focus on the current solution of trafic system to organize an application whi
 ## TASK PERFORMED ##
 
 ### TASK1 ###
- Driver and user check seats.<br/>
+User check seats.<br/>
 ### TASK2 ###
 User can also reserve seats.<br/>
 ### TASK3 ###
